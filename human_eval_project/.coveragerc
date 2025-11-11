@@ -1,0 +1,7 @@
+[run]
+source = generated_code_solutions_with_candidate
+
+[report]
+show_missing = True
+omit =
+    */__init__.py
